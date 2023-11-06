@@ -35,3 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-kumar-mahato&show_icons=true&locale=en" alt="chandan-kumar-mahato" /></p>
 
+[![An image of @chandankumarmahato's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandankumarmahato)](https://holopin.io/@chandankumarmahato)
