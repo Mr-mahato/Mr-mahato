@@ -36,3 +36,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-kumar-mahato&show_icons=true&locale=en" alt="chandan-kumar-mahato" /></p>
 
 [![An image of @chandankumarmahato's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandankumarmahato)](https://holopin.io/@chandankumarmahato)
+<h3>live Running projects:</h3>
+<ul>
+  <li><a href="[https://github.com/Chandan-Kumar-Mahato/project-1](https://chandan-kumar-mahato.github.io/Netflix-task2/)">Netflix Clone</a></li>
+  <li><a href="[https://github.com/Chandan-Kumar-Mahato/project-2](https://chandan-kumar-mahato.github.io/BharatIntern/)">Temperature Converter</a></li>
+  <!-- Add more project links as needed -->
+</ul>
