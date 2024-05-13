@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chandan Mahato</h1>
-<h3 align="center">A passionate frontend developer from Nepal.</h3>
+<h3 align="center">A passionate FullStack developer from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-kumar-mahato&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-kumar-mahato" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandan-kumar-mahato" alt="chandan-kumar-mahato" /></a> </p>
 
-- 🌱 I’m currently learning **React , Nodejs , Java**
+- 🌱 I’m currently learning more on **React  and other Frontend libraries**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chandan-Kumar-Mahato?tab=repositories](https://github.com/Chandan-Kumar-Mahato?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Mr-mahato?tab=repositories](https://github.com/Mr-mahato?tab=repositories)
 
-- 💬 Ask me about **JavaScript , c++ , Java**
+- 💬 Ask me about **JavaScript , React , Express , Mongodb , NodeJs , Tailwind ,  c++ , Java**
 
 - 📫 How to reach me **cmhandan@gmail.com**
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/chandankumarmahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/chandankumarmahato" height="30" width="40" /></a>
 <a href="https://twitter.com/chandu8849" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandu8849" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chandan-mahato%f0%9f%92%af-aa76b7165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandan-mahato%f0%9f%92%af-aa76b7165/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chandan-mahato%F0%9F%92%AF-aa76b7165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandan-mahato%f0%9f%92%af-aa76b7165/" height="30" width="40" /></a>
 <a href="https://fb.com/चन्दु महतो" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="चन्दु महतो" height="30" width="40" /></a>
 <a href="https://medium.com/@cmhandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cmhandan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/chandan7772" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chandan7772" height="30" width="40" /></a>
